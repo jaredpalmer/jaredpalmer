@@ -1,4 +1,4 @@
-Hey, I'm Jared! 👋
+Hi, I'm Jared! 👋
 
 I'm the **Head of Open Source at ▲[Vercel](https://vercel.com)** where I lead the [Next.js](https://github.com/vercel/next.js)/[React](https://github.com/facebook/react), [Svelte](https://github.com/sveltejs/svelte), [Webpack](https://github.com/webpack), and [Turborepo](https://github.com/vercel/turborepo) teams. I joined Vercel after they acquired my frontend build system startup Turborepo in late 2021. 
 
