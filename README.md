@@ -6,7 +6,7 @@
     <a href="https://jaredpalmer.com/talks">talks</a> .
     <a href="https://jaredpalmer.com/bookshelf)">bookshelf</a> .
     <a href="https://twitter.com/jaredpalmer">tweets</a> .
-    <a href=https://twitter.com/search?lang=en&q=(from%3Ajaredpalmer)%20min_faves%3A800&src=typed_query">dank memes</a> .
+    <a href="https://twitter.com/search?q=(from%3Ajaredpalmer)%20min_faves%3A800&src=typed_query">dank memes</a> .
     <a href="https://instagram.com/jaredpalmer">instagram</a> .
     <a href="https://github.com/sponsors/jaredpalmer">sponsor</a>
   </samp>
