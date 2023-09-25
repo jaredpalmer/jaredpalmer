@@ -12,7 +12,7 @@
 
 Hi, I'm Jared! 👋
 
-I'm the **VP of Product, AI & Strategy at ▲[Vercel](https://vercel.com)**. I joined Vercel after they [acquired my frontend build system startup Turborepo](https://techcrunch.com/2021/12/09/vercel-acquires-turborepo/) in late 2021. 
+I'm the **VP of AI at ▲[Vercel](https://vercel.com)**. I joined Vercel after they [acquired my frontend build system startup Turborepo](https://techcrunch.com/2021/12/09/vercel-acquires-turborepo/) in late 2021. 
 
 Prior to Vercel and Turborepo, I ran a software development and design studio in New York City called The Palmer Group. I'm mostly known for my open source projects in the React ecosystem such as [Formik](https://github.com/jaredpalmer/formik) and [TSDX](https://github.com/jaredpalmer/tsdx), which are trusted by millions of developers all over the world. 
 
